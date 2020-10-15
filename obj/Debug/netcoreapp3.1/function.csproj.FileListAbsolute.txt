@@ -1,0 +1,13 @@
+C:\Users\DARSHAN\desktop\ComIT\Try_Code\function\bin\Debug\netcoreapp3.1\function.exe
+C:\Users\DARSHAN\desktop\ComIT\Try_Code\function\bin\Debug\netcoreapp3.1\function.deps.json
+C:\Users\DARSHAN\desktop\ComIT\Try_Code\function\bin\Debug\netcoreapp3.1\function.runtimeconfig.json
+C:\Users\DARSHAN\desktop\ComIT\Try_Code\function\bin\Debug\netcoreapp3.1\function.runtimeconfig.dev.json
+C:\Users\DARSHAN\desktop\ComIT\Try_Code\function\bin\Debug\netcoreapp3.1\function.dll
+C:\Users\DARSHAN\desktop\ComIT\Try_Code\function\bin\Debug\netcoreapp3.1\function.pdb
+C:\Users\DARSHAN\desktop\ComIT\Try_Code\function\obj\Debug\netcoreapp3.1\function.csprojAssemblyReference.cache
+C:\Users\DARSHAN\desktop\ComIT\Try_Code\function\obj\Debug\netcoreapp3.1\function.AssemblyInfoInputs.cache
+C:\Users\DARSHAN\desktop\ComIT\Try_Code\function\obj\Debug\netcoreapp3.1\function.AssemblyInfo.cs
+C:\Users\DARSHAN\desktop\ComIT\Try_Code\function\obj\Debug\netcoreapp3.1\function.csproj.CoreCompileInputs.cache
+C:\Users\DARSHAN\desktop\ComIT\Try_Code\function\obj\Debug\netcoreapp3.1\function.dll
+C:\Users\DARSHAN\desktop\ComIT\Try_Code\function\obj\Debug\netcoreapp3.1\function.pdb
+C:\Users\DARSHAN\desktop\ComIT\Try_Code\function\obj\Debug\netcoreapp3.1\function.genruntimeconfig.cache
